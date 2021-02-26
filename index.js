@@ -5,7 +5,7 @@ const keypads = [
     'aelpxyz',
     'aelpsxy',
     'saelprt',
-    'xaebksy'
+    'xaebksy'  
 ]
 
 const output = keypads.map(pad => {
